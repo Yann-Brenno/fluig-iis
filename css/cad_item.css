@@ -1,0 +1,16 @@
+
+#container-cad {
+	background-color: #FFFFFF;
+	opacity: 0.9;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 30px;
+	margin-top: 10vh;
+	border-radius: 10px;
+	text-align: center;
+    -webkit-box-shadow: 12px 12px 4px 0px rgba(64, 69, 57, 0.75);
+    -moz-box-shadow:    12px 12px 4px 0px rgba(64, 69, 57, 0.75);
+    box-shadow:         12px 12px 4px 0px rgba(64, 69, 57, 0.75);
+
+}
